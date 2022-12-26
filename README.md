@@ -3,6 +3,11 @@
 
 Algorithm that will recomend movies according to your choice.
 
+# Data Base
+
+I use to it study the data base provided by: 
+https://www.kaggle.com/datasets/kanametov/movies-recomendation-system?select=tags.csv
+
 ## Learn
 
 Scikit Learn - KNeighborsClassifier
