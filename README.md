@@ -1,7 +1,7 @@
 
 # movie_recomendation
 
-Algorithm that will recomend movies according to your choise.
+Algorithm that will recomend movies according to your choice.
 
 ## Learn
 
