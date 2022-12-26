@@ -14,7 +14,7 @@ Scikit Learn - KNeighborsClassifier
 
 ## Author
 
-- [@octokatherine](https://github.com/Claudiojpj)
+- [@claudiojpj](https://github.com/Claudiojpj)
 
 
 ## 🚀 About me
